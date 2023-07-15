@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pacman-react/static/css/main.073c9b0a.css",
+    "main.js": "/pacman-react/static/js/main.cc78bfaa.js",
+    "static/js/787.f44546a9.chunk.js": "/pacman-react/static/js/787.f44546a9.chunk.js",
+    "index.html": "/pacman-react/index.html",
+    "main.073c9b0a.css.map": "/pacman-react/static/css/main.073c9b0a.css.map",
+    "main.cc78bfaa.js.map": "/pacman-react/static/js/main.cc78bfaa.js.map",
+    "787.f44546a9.chunk.js.map": "/pacman-react/static/js/787.f44546a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cc78bfaa.js"
+  ]
+}
